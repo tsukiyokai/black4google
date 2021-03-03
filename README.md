@@ -1,4 +1,4 @@
-# _uBlacklist
+# uBlacklist
 uBlacklist自用屏蔽列表
 
 ## 使用方法
