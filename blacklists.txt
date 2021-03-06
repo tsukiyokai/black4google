@@ -4,3 +4,6 @@
 *://wenku.baidu.com/*
 *://www.169it.com/*
 *://www.sohu.com/*
+*://www.runoob.com/*
+*://mdeditor.tw/*
+*://blog.nowcoder.net/*
