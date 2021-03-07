@@ -7,3 +7,8 @@
 *://www.runoob.com/*
 *://mdeditor.tw/*
 *://blog.nowcoder.net/*
+*://product.dangdang.com/*
+*://item.jd.com/*
+*://www.jd.com/*
+*://www.duokan.com/*
+*://www.360docs.net/*
