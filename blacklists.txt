@@ -12,3 +12,13 @@
 *://www.jd.com/*
 *://www.duokan.com/*
 *://www.360docs.net/*
+*://cpu.baidu.com/*
+*://www.hjenglish.com/*
+*://www.hujiang.com/*
+*://m.hujiang.com/*
+*://www.360doc.com/*
+*://mp.ofweek.com/*
+*://www.daimajiaoliu.com/*
+*://new.qq.com/*
+*://power.baidu.com/*
+*://zhidao.baidu.com/*
