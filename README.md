@@ -1,5 +1,5 @@
 # uBlacklist
-uBlacklist 自用黑名单
+自用黑名单
 
 ## 使用方法
 1. 将 `match_patterns.txt` 中的通配符，添加到 Sites blocked from appearing in Google search results 的输入框下。
