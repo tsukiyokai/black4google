@@ -22,3 +22,8 @@
 *://new.qq.com/*
 *://power.baidu.com/*
 *://zhidao.baidu.com/*
+*://www.136.la/*
+*://eladies.sina.cn/*
+*://www.pearvideo.com/*
+*://v.qq.com/*
+*://k.sina.cn/*
