@@ -1,6 +1,4 @@
-# uBlacklist
-
-自用黑名单
+μBlacklist
 
 ## 使用方法
 
