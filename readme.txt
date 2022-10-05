@@ -6,4 +6,5 @@
 
 同类订阅
 
-https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
+- https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt
+- https://raw.githubusercontent.com/kurikomoe/KurikoRulesets/master/ublacklist.txt
