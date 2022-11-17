@@ -47,7 +47,6 @@
 *://*.comsol.com/*
 *://*.coonote.com/*
 *://*.copyfuture.com/*
-*://*.csdn.net/*
 *://*.css8.cn/*
 *://*.ctrip.com/*
 *://*.daimazxw.com/*
@@ -339,7 +338,6 @@
 *://www.cjavapy.com/*
 *://www.codeleading.com/*
 *://www.cprogramming.com/*
-*://www.csdn.net/*
 *://www.cuoshuo.com/*
 *://www.cxybb.com/*
 *://www.cxymm.net/*
