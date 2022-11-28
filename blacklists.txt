@@ -365,7 +365,6 @@
 *://www.its203.com/*
 *://www.javashuo.com/*
 *://www.jd.com/*
-*://www.jianshu.com/*
 *://www.muzijie.com/*
 *://www.noobyard.com/*
 *://www.pai-hang-bang.com/*
